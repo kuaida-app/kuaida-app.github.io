@@ -1,9 +1,7 @@
- ```scss
-    ---
-    ---
-    @import "{{ site.theme }}";
-```
+---
+---
 
+@import "{{ site.theme }}";
     
 footer.site-footer {
  display: none;
