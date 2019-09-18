@@ -1,17 +1,6 @@
-<br/>
-<br/>
-<br/>
-<br/>
+# 快达加速
 
-
-
-### <center>官网地址：http://kda.li</center >
-
-
-自动跳转中...
-
-
-
+官网地址：http://kda.li
 
 Email： kuaida.app@gmail.com
 
